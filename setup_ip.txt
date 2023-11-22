@@ -1,0 +1,18 @@
+sudo ifconfig ens108np0 255.255.255.0 192.168.1.117
+sudo ifconfig ens109np0 255.255.255.0 192.168.2.117
+sudo ifconfig ens110np0 255.255.255.0 192.168.3.117
+sudo ifconfig ens111np0 255.255.255.0 192.168.4.117
+sudo ifconfig ens112np0 255.255.255.0 192.168.5.117
+sudo ifconfig ens113np0 255.255.255.0 192.168.6.117
+sudo ifconfig ens114np0 255.255.255.0 192.168.7.117
+sudo ifconfig ens115np0 255.255.255.0 192.168.8.117
+
+sudo ifconfig ens108np0 255.255.255.0 192.168.1.116
+sudo ifconfig ens109np0 255.255.255.0 192.168.2.116
+sudo ifconfig ens110np0 255.255.255.0 192.168.3.116
+sudo ifconfig ens111np0 255.255.255.0 192.168.4.116
+sudo ifconfig ens112np0 255.255.255.0 192.168.5.116
+sudo ifconfig ens113np0 255.255.255.0 192.168.6.116
+sudo ifconfig ens114np0 255.255.255.0 192.168.7.116
+sudo ifconfig ens115np0 255.255.255.0 192.168.8.116
+
